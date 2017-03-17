@@ -1,6 +1,6 @@
 {
   "name": "random-int-inclusive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Getting a random integer between two values, inclusive",
   "main": "index.js",
   "scripts": {
