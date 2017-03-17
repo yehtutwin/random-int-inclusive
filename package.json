@@ -1,0 +1,19 @@
+{
+  "name": "random-int-inclusive",
+  "version": "1.0.0",
+  "description": "Getting a random integer between two values, inclusive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehtutwin/random-int-inclusive.git"
+  },
+  "author": "yehtutwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yehtutwin/random-int-inclusive/issues"
+  },
+  "homepage": "https://github.com/yehtutwin/random-int-inclusive#readme"
+}
