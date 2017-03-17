@@ -1,6 +1,6 @@
 # random-int-inclusive
 
-A Node.js package that returns random integer value inclusive at both the minimum and the maximum.
+A Node.js package that returns random integer between two values inclusive at both the minimum and the maximum.
 
 ## Usage
 
