@@ -12,8 +12,8 @@ Then, require the package and use it like so:
 
     var getRandomIntInclusive = require('random-int-inclusive');
 
-console.log(getRandomIntInclusive(0, 1));
-console.log(getRandomIntInclusive(0, 1000));
+console.log(getRandomIntInclusive(0, 1));  
+console.log(getRandomIntInclusive(0, 1000));  
 console.log(getRandomIntInclusive(10, 1000));
 
 ## License
